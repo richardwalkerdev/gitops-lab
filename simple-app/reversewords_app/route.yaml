@@ -13,5 +13,5 @@ metadata:
       kind: Service
       name: reverse-words
       weight: 100
-  status:
-    ingress: []
+status:
+  ingress: []
